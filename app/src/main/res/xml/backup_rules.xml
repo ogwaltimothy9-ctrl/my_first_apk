@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!--
+   Files in the root directory are backed up.  Uncomment to restrict to files in the app-specific
+   backup directory on the device. See https://developer.android.com/guide/topics/data/autobackup
+   for details.
+   -->
+    <exclude domain="sharedpref" path=".*" />
+    <exclude domain="database" path=".*" />
+</full-backup-content>

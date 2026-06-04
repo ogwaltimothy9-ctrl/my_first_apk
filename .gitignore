@@ -1,0 +1,38 @@
+# Android
+*.apk
+*.aar
+*.ap_
+*.dex
+*.class
+*.jar
+*.so
+*.zip
+*.rar
+*.7z
+
+# Gradle files
+.gradle/
+build/
+.gradle
+*.iml
+
+# Android Studio
+.idea/
+*.iws
+*.iml
+*.ipr
+*.iml
+.DS_Store
+/local.properties
+
+# Build results
+/*/build/
+/*/*/build/
+**/build/
+
+# ProGuard
+proguard-project.txt
+
+# Log Files
+*.log
+POM.xml
